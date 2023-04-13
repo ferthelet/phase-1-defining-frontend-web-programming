@@ -2,10 +2,10 @@
 
 ## Learning Goals
 
-- Define web programming
-- Contrast web pages versus web applications
-- Identify a reference example: "Liking on social media"
-- Identify the "Three Pillars of Web Programming"
+- Define web programming.
+- Contrast web pages versus web applications.
+- Identify a reference example: "Liking on social media".
+- Identify the "Three Pillars of Web Programming".
 
 ## Introduction
 
